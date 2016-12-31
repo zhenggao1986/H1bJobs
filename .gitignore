@@ -10,3 +10,6 @@ buildNumber.properties
 
 # Exclude maven wrapper
 !/.mvn/wrapper/maven-wrapper.jar
+
+# Exclude .DS_store
+*.DS_store
